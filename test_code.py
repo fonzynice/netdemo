@@ -1,8 +1,6 @@
-from .mynornir import name
-
 
 def test_name():
-    # name = 'cisco'
+    name = 'cisco'
     assert name == 'cisco'
 
 
