@@ -1,0 +1,10 @@
+---
+# Strings were quoted to render better on the web
+rtr1:
+    hostname: ios-xe-mgmt-latest.cisco.com
+    port: 8181
+    username: developer
+    password: C1sco12345
+    platform: ios
+    groups:
+        - global
