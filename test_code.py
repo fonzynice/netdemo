@@ -1,4 +1,4 @@
-from netdemo.mynornir import name
+from .mynornir import name
 
 
 def test_name():
